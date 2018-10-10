@@ -78,7 +78,8 @@ It will then expect that the completed work will contain the appropriate quantit
 /*The 'New Feed Selection' will make sure that new content will reload after its
 first load. This is coompleted by using the beforeEach(). Within the beforeEach()
 a loadFeed of 0 will be called  becoming the first feed. Then along with a loadFeed of 1.
-Which will become the second feed.*/
+Which will become the second feed.
+https://matthewcranford.com/feed-reader-walkthrough-part-4-async-tests*/
     describe('New Feed Selection', function() {
     const feedOne = document.querySelector('.feed').innerHTML;
 
