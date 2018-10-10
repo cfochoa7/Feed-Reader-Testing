@@ -41,7 +41,8 @@ Will expect that the classList contains the 'menu-hidden' feature.*/
 
          });
 /*A test of 'Visablity' has two variables form the DOM that will make sure that the menu has the ability to be toggled
-on and off when clicked.*/
+on and off when clicked.
+https://matthewcranford.com/feed-reader-walkthrough-part-3-menu-test-suite*/
           it('Visability', function() {
             const access = document.querySelector('.menu-icon-link');
             const element = document.querySelector('body');
