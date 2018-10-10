@@ -17,4 +17,4 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 Special thanks to Matthew Cranford, and the Udacity community for providing guidance on this project.
 
--Cranford, Matthew (2018) Arcade Game Walkthrough https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/
+-Cranford, Matthew (2018) Feed Reader Walkthrough https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/
